@@ -1,8 +1,8 @@
-## 🌸 Ferns and Petals (FNP) Sales Analysis
+# 🌸 Ferns and Petals (FNP) Sales Analysis
 
 
 
-###### 📌 Project Overview
+## 📌 Project Overview
 
 
 
@@ -20,7 +20,7 @@ A dashboard was created to visualize important KPIs such as total revenue, order
 
 
 
-###### 🗂️ Dataset
+## 🗂️ Dataset
 
 
 
@@ -28,42 +28,42 @@ The dataset contains information about:
 
 
 
-Orders (Order ID, Order Quantity, Delivery Time)
+- Orders (Order ID, Order Quantity, Delivery Time)
 
 
 
-Products (Product Category, Revenue Contribution)
+- Products (Product Category, Revenue Contribution)
 
 
 
-Customers (Spending Analysis, Top Cities)
+- Customers (Spending Analysis, Top Cities)
 
 
 
-Occasions (Revenue distribution across different occasions)
+- Occasions (Revenue distribution across different occasions)
 
 
 
-###### 🎯 Key Business Questions Answered
+## 🎯 Key Business Questions Answered
 
 
 
-* Total Revenue – What is the overall revenue generated?
-* Average Order \& Delivery Time – How long does it take to deliver an order?
-* Monthly Sales Performance – How do sales vary month by month?
-* Top Products by Revenue – Which products generate the most revenue?
-* Customer Spending Analysis – How much do customers spend on average?
-* Sales Performance by Top 5 Products – Tracking performance of top products.
-* Top 10 Cities by Orders – Which cities contribute the most orders?
-* Order Quantity vs Delivery Time – Do larger orders delay deliveries?
-* Revenue by Occasion – Which occasions bring in the highest revenue?
-* Product Popularity by Occasion – Which products are most popular during events?
+* **Total Revenue –** What is the overall revenue generated?
+* **Average Order \& Delivery Time –** How long does it take to deliver an order?
+* **Monthly Sales Performance –** How do sales vary month by month?
+* **Top Products by Revenue –** Which products generate the most revenue?
+* **Customer Spending Analysis –** How much do customers spend on average?
+* **Sales Performance by Top 5 Products –** Tracking performance of top products.
+* **Top 10 Cities by Orders –** Which cities contribute the most orders?
+* **Order Quantity vs Delivery Time –** Do larger orders delay deliveries?
+* **Revenue by Occasion –** Which occasions bring in the highest revenue?
+* **Product Popularity by Occasion –** Which products are most popular during events?
 
 
 
 
 
-###### 📊 Dashboard Highlights
+## 📊 Dashboard Highlights
 
 
 
@@ -76,7 +76,7 @@ Occasions (Revenue distribution across different occasions)
 
 ###### 
 
-###### 🛠️ Tools \& Technologies
+## 🛠️ Tools \& Technologies
 
 
 
@@ -85,8 +85,7 @@ Occasions (Revenue distribution across different occasions)
 * GitHub – Version control \& project sharing
 
 
-
-###### 📌 Insights \& Recommendations
+## 📌 Insights \& Recommendations
 
 
 
@@ -98,7 +97,7 @@ Occasions (Revenue distribution across different occasions)
 
 
 
-###### 📂 Project Structure
+## 📂 Project Structure
 
 
 
@@ -115,4 +114,5 @@ Occasions (Revenue distribution across different occasions)
 &nbsp;┣ 📜 fnp\_report.pdf               # Detailed Analysis Report
 
 &nbsp;┣ 📜 README.md                # Project Documentation
+
 
